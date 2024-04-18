@@ -18,3 +18,7 @@ I'm Milton Leslie Sobrinho de Souza Sanches, a Senior Software Engineer & AI Edu
 - ⚡ Fun fact: I love to integrate music and technology to create unique educational tools.
 
 Feel free to browse my projects and don't hesitate to reach out if you think we can work together on something exciting!
+
+### Additional Information
+
+For those interested in my earlier work, you can access my previous GitHub profile, active since [ano de início da conta antiga], at [miltonleslie](https://github.com/miltonleslie).

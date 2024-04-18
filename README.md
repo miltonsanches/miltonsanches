@@ -21,4 +21,4 @@ Feel free to browse my projects and don't hesitate to reach out if you think we 
 
 ### Additional Information
 
-For those interested in my earlier work, you can access my previous GitHub profile, active since [ano de início da conta antiga], at [miltonleslie](https://github.com/miltonleslie).
+For those interested in my earlier work, you can access my previous GitHub profile, active since [2010], at [miltonleslie](https://github.com/miltonleslie).
